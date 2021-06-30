@@ -1,4 +1,4 @@
-## Web-based Recruitment Portal using Django and SQLite Database - Group-5 CSE 4th Year, 8th Semester
+## Web-based Recruitment Portal using Django and SQLite Database - Group-5 CSE 4th Year,8th Semester
 
 Used Tech Stack
 
